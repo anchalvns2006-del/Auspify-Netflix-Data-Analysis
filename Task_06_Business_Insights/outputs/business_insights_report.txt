@@ -1,0 +1,14 @@
+
+NETFLIX BUSINESS INSIGHTS REPORT
+================================
+
+Total Titles: 8790
+Movies: 6126
+TV Shows: 2664
+Top Country: United States
+Most Common Rating: TV-MA
+Peak Release Year: 2018
+
+Conclusion:
+Movies dominate the dataset, the United States leads
+country-wise title counts, and 2018 is the peak release year.
